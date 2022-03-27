@@ -45,7 +45,8 @@
 
 > **客户端访问：** localhost:ip
 
-> **本项目已搭建在云服务区：** http://162.14.81.75:1997/
+> **本项目已搭建在云服务区：** http://162.14.81.75:1997/ </br>
+ ![mainInterface](https://github.com/zhao-zhou/WebServer_zzhou/blob/master/root/interface.png)
 
 *默认设置*
 ===========
